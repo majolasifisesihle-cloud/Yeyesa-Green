@@ -25,12 +25,12 @@
     <form class="contact-form">
       <input type="text" placeholder="Sifiso" required />
       <input type="yeyesagreen@gmail.com" placeholder="yeyesagreen@gmail.com" required />
-      <textarea placeholder="Your Message" rows="5" required></textarea>
+      <textarea placeholder="yeyesagreen@gmail.com" rows="5" required></textarea>
       <button type="submit">Send Message</button>
     </form>
   </section>
 
-  <a href="https://wa.me/27YOURNUMBER" class="whatsapp" target="_blank">
+  <a href="https://wa.me/27717775907" class="whatsapp" target="_blank">
     &#x1F4AC;
   </a>
 
