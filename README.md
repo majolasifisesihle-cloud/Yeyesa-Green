@@ -97,17 +97,17 @@
 
 <section class="hero" id="home">
   <h1>Welcome to Yeyesa Green</h1>
-  <p>Your sustainable gardening partner.</p>
+  <p>Your sustainable gardening and landscaping partner.</p>
 </section>
 
 <section class="content" id="about">
   <h2>About Us</h2>
-  <p>Yeyesa Green is dedicated to bringing eco-friendly gardening services to your home and community. We specialize in sustainable landscaping, garden design, and maintenance using green practices.</p>
+  <p>Yeyesa Green is dedicated to bringing eco-friendly gardening services to your home,workspace and community. We specialize in tree planting,flower beds,lawn installation,grass cutting and garden mamaintanance.With attention to detail and a passion for green spaces,we make gardens thrive beautifully.Contact us today via whatsaap or email for affordable quality service.</p>
 </section>
 
 <section class="contact" id="contact">
   <h2>Contact Us</h2>
-  <p>Email: <a href="mailto:info@yeyesagreen.com">info@yeyesagreen.com</a></p>
+  <p>Email: <a href="mailto:info@yeyesagreen.com">info@yeyesagreen@gmail.com</a></p>
   <p>Phone: <a href="tel:+27715509075">+27715509075</a></p>
 </section>
 
@@ -115,6 +115,7 @@
   <img src="Garden 1.jpg" alt="Garden 1.jpg" />
   <img src="Garden 2.jpg" alt="Garden 2.jpg" />
   <img src="Garden 3.jpg" alt="Garden 3.jpg" />
+  <img src="Garden 4.jpg" alt="Garden 4.jpg" />
 </section>
 
 </body>
