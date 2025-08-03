@@ -112,9 +112,9 @@
 </section>
 
 <section class="gallery">
-  <img src="garden1.jpg" alt="Garden 1" />
-  <img src="garden2.jpg" alt="Garden 2" />
-  <img src="garden3.jpg" alt="Garden 3" />
+  <img src="garden1.jpg" alt="Garden 1.jpg" />
+  <img src="garden2.jpg" alt="Garden 2.jpg" />
+  <img src="garden3.jpg" alt="Garden 3.jpg" />
 </section>
 
 </body>
