@@ -108,13 +108,13 @@
 <section class="contact" id="contact">
   <h2>Contact Us</h2>
   <p>Email: <a href="mailto:info@yeyesagreen.com">info@yeyesagreen.com</a></p>
-  <p>Phone: <a href="tel:+1234567890">+1 234 567 890</a></p>
+  <p>Phone: <a href="tel:+27715509075">+27715509075</a></p>
 </section>
 
 <section class="gallery">
-  <img src="garden1.jpg" alt="Garden 1.jpg" />
-  <img src="garden2.jpg" alt="Garden 2.jpg" />
-  <img src="garden3.jpg" alt="Garden 3.jpg" />
+  <img src="Garden 1.jpg" alt="Garden 1.jpg" />
+  <img src="Garden 2.jpg" alt="Garden 2.jpg" />
+  <img src="Garden 3.jpg" alt="Garden 3.jpg" />
 </section>
 
 </body>
