@@ -102,20 +102,26 @@
 
 <section class="content" id="about">
   <h2>About Us</h2>
-  <p>Yeyesa Green is dedicated to bringing eco-friendly gardening services to your home,workspace and community. We specialize in tree planting,flower beds,lawn installation,grass cutting and garden mamaintanance.With attention to detail and a passion for green spaces,we make gardens thrive beautifully.Contact us today via whatsaap or email for affordable quality service.</p>
+  <p>
+    Yeyesa Green is dedicated to bringing eco-friendly gardening services to your home, workspace, and community.
+    We specialize in tree planting, flower beds, lawn installation, grass cutting, and garden maintenance.
+    With attention to detail and a passion for green spaces, we make gardens thrive beautifully.
+    Contact us today via WhatsApp or email for affordable, quality service.
+  </p>
 </section>
 
 <section class="contact" id="contact">
   <h2>Contact Us</h2>
-  <p>Email: <a href="mailto:info@yeyesagreen.com">info@yeyesagreen@gmail.com</a></p>
-  <p>Phone: <a href="tel:+27715509075">+27715509075</a></p>
+  <p>Email: <a href="mailto:info@yeyesagreen@gmail.com">info@yeyesagreen@gmail.com</a></p>
+  <p>Phone: <a href="tel:+27715509075">+27 71 550 9075</a></p>
+  <p>WhatsApp: <a href="https://wa.me/27715509075" target="_blank">+27 71 550 9075</a></p>
 </section>
 
 <section class="gallery">
-  <img src="Garden 1.jpg" alt="Garden 1.jpg" />
-  <img src="Garden 2.jpg" alt="Garden 2.jpg" />
-  <img src="Garden 3.jpg" alt="Garden 3.jpg" />
-  <img src="Garden 4.jpg" alt="Garden 4.jpg" />
+  <img src="Garden 1.jpg" alt="Beautiful landscaped garden - 1" />
+  <img src="Garden 2.jpg" alt="Beautiful landscaped garden - 2" />
+  <img src="Garden 3.jpg" alt="Beautiful landscaped garden - 3" />
+  <img src="Garden 4.jpg" alt="Beautiful landscaped garden - 4" />
 </section>
 
 </body>
