@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<logo.png>
+<head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Yeyesa Green</title>
@@ -82,3 +82,40 @@
       box-shadow: 0 2px 6px rgba(0,0,0,0.15);
       flex: 1 1 200px;
     }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="logo.png" alt="Yeyesa Green Logo" />
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="hero" id="home">
+  <h1>Welcome to Yeyesa Green</h1>
+  <p>Your sustainable gardening partner.</p>
+</section>
+
+<section class="content" id="about">
+  <h2>About Us</h2>
+  <p>Yeyesa Green is dedicated to bringing eco-friendly gardening services to your home and community. We specialize in sustainable landscaping, garden design, and maintenance using green practices.</p>
+</section>
+
+<section class="contact" id="contact">
+  <h2>Contact Us</h2>
+  <p>Email: <a href="mailto:info@yeyesagreen.com">info@yeyesagreen.com</a></p>
+  <p>Phone: <a href="tel:+1234567890">+1 234 567 890</a></p>
+</section>
+
+<section class="gallery">
+  <img src="garden1.jpg" alt="Garden 1" />
+  <img src="garden2.jpg" alt="Garden 2" />
+  <img src="garden3.jpg" alt="Garden 3" />
+</section>
+
+</body>
+</html>
